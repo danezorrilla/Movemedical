@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Movemedical</string>
+
+    <string-array name="locations">
+        <item>San Diego</item>
+        <item>St. George</item>
+        <item>Park City</item>
+        <item>Dallas</item>
+        <item>Memphis</item>
+        <item>Orlando</item>
+    </string-array>
+
+    <string-array name="hours">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+
+</resources>

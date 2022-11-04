@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "631255231974",
+    "project_id": "movemedical-8ea8f",
+    "storage_bucket": "movemedical-8ea8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631255231974:android:94736081ba5d0aaa91fa27",
+        "android_client_info": {
+          "package_name": "com.example.movemedical"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631255231974-q0d8m1ic4rcak65eb7mg5ic8qjf97top.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV0YthQrqabALnF6maY3zqmel5axsJuf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631255231974-q0d8m1ic4rcak65eb7mg5ic8qjf97top.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
